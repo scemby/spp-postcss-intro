@@ -1,0 +1,13 @@
+$dir:    top;
+$blue:   #056ef0;
+$column: 3200px;
+
+.menu_link {
+    background: $blue;
+    width: $column;
+    display: flex;
+}
+.menu {
+    width: calc(4 * $column);
+    margin-$(dir): 12px;
+}

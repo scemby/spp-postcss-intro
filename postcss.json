@@ -1,0 +1,11 @@
+{
+  "use": [
+    "postcss-simple-vars",
+    "postcss-nested",
+    "postcss-mixins"
+  ],
+  "input": "css/main.css",
+  "output": "public/main.css",
+  "local-plugins": true,
+  "watch": true
+}
